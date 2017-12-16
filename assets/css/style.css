@@ -1,0 +1,16 @@
+body {
+   background-image: url("../images/background.jpg");
+   background-size: 1600px 700px;
+}
+
+.hero-button {
+  margin: 10px;
+}
+
+.add-hero {
+  margin: 10px;
+}
+
+.pull-left {
+  margin: 10px;
+}
